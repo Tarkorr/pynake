@@ -1,3 +1,5 @@
+> This is a fork using the latest version of pyxel in date (and adpated the changes because recent versions of pyxel doesn't support this old version), adding some fancy features like shadow for scores and texts. The fancy grid too ! <br> Used for a school project :)
+
 # Snake #
 
 ## The classic game of snake implemented in [Pyxel](https://github.com/kitao/pyxel) ##
@@ -28,5 +30,3 @@ Controls are the arrow keys: **←** **↑** **→** **↓**
 2. Install [Pyxel](https://github.com/kitao/pyxel) using their instructions
 3. Clone or copy this repository
 4. `python3 snake.py` at the command line
-
-> This is a fork using the latest version of pyxel in date (and adpated the changes because recent versions of pyxel doesn't support this old version), adding some fancy features like shadow for scores and texts. The fancy grid too ! <br> Used for a school project :)
