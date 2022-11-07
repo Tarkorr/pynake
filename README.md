@@ -1,4 +1,4 @@
-> This is a fork using the latest version of pyxel in date (and adpated the changes because recent versions of pyxel doesn't support this old version), adding some fancy features like shadow for scores and texts. The fancy grid too ! <br> Used for a school project :)
+> This is a fork using the latest version of pyxel in date (and adapated the changes because recent versions of pyxel doesn't support this old version), adding some fancy features like shadow for scores and texts. The fancy grid too ! <br> Used for a school project :)
 
 # Snake #
 
